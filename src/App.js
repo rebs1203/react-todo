@@ -14,6 +14,11 @@ const todoList = [
   {
     id: '3',
     title: 'work out',
+  },
+
+  {
+    id: '4',
+    title: 'hurry up'
   }
 ];
 
